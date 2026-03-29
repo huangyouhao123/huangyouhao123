@@ -41,14 +41,7 @@
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
-    <img src="https://github-readme-stats.vercel.app/api?username=huangyouhao123&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;" />
-  </div>
-  
-  <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangyouhao123&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;" />
-  </div>
+
   
   <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); border: 1px solid rgba(255, 255, 255, 0.18); width: 100%; max-width: 800px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=huangyouhao123&theme=radical" alt="GitHub Streak" style="border-radius: 10px; width: 100%;" />
